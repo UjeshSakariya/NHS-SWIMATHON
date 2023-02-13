@@ -9,7 +9,7 @@
           this.innerHTML = `
 
           <link href="styles.css" rel="stylesheet">
-          <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #e3f2fd;">
+          <nav class="navbar navbar-expand bg-body-tertiary" style="background-color: #e3f2fd;">
           <div class="container-fluid">
             <a class=" main2 navbar-brand" href="index.html" target="_top">HOMEPAGE</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
