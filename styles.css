@@ -1,0 +1,117 @@
+.heading {
+    text-align: center;
+    color: blue;
+    background-color: #AEE8F5;
+    font-weight: bold;
+
+}
+
+.subheading {
+    text-align: center;
+    color: blue;
+;
+}
+.main {
+    text-align: center;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 40px;
+}
+.main2 {
+    text-align: center;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left:0px;
+
+}
+.charity {
+    text-align: center;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 1.7;
+}
+
+.answer {
+    text-align: left;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.7;
+    padding-left:0px;
+    padding-top:20px;
+}
+
+.button {
+    text-align: center;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #ffffff;
+    line-height: 1.7;
+}
+
+.back {
+
+}
+
+.donate {
+    text-align: center;
+    color: blue;
+
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.button2 {
+    text-align: center;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #ffffff;
+    line-height: 1.7;
+}
+
+.main3 {
+    text-align: left;
+    color: #00008b;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left:20px;
+    text-decoration-line: underline;
+
+}
+
+#correct {
+    padding-left:0px;
+
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #00008b;
+    margin-left: 2px;
+
+}
+#submit {
+    padding-left:0px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #00008b;
+    background-color: #ffffff;
+    margin-left: 2px;
+
+}
+
+#wrap {
+    width:100%;
+}
+
+#new {
+    margin-left: 345px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #00008b;
+}
