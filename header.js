@@ -24,6 +24,7 @@
                   <a class=" main2 nav-link active" aria-current="page" href="results.html" target="_top">RESULTS</a>
       </nav>
         </nav>
+        <br>
          <p class = main2> Click on the above tags to view the other pages of the website <p>
 
           `;
