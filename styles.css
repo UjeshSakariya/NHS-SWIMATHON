@@ -115,3 +115,11 @@
     font-size: 20px;
     color: #00008b;
 }
+
+.new {
+    text-align: left;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left:0px;
+}
