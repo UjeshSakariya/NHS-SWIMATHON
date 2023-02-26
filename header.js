@@ -22,10 +22,13 @@
                 </li>
                 <li class="nav-item">
                   <a class=" main2 nav-link active" aria-current="page" href="results.html" target="_top">RESULTS</a>
+                </li>
+                 <li class="nav-item">
+                  <a class=" main2 nav-link active" aria-current="page"  target="_top">Click on the tags to to the left to view the other pages of the website</a>
+                </li>
       </nav>
         </nav>
-        <br>
-         <p class = main2> Click on the above tags to view the other pages of the website <p>
+
 
           `;
         }
